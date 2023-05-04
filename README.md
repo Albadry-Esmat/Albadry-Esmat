@@ -1,12 +1,14 @@
 
-<img width="1000" height="200" align="center" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
   Welcome to Albadry Esmat's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h3>
+<img width="1000" height="200" align="center" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
+
+  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
