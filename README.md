@@ -1,4 +1,6 @@
 
+<img width="1000" align="center" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
