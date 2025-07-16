@@ -4,8 +4,9 @@
 </h3>
 
 <p align="center">
-  <img width="1000" height="200" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
+  <img width="1000" src="https://kinesisco.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-1024x479.png">
 </p>
+
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
