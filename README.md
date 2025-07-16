@@ -1,51 +1,103 @@
-
 <h3 align="center">
   Welcome to Albadry Esmat's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<img width="1000" height="200" align="center" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
 
-  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img width="1000" height="200" src="https://www.msci.com/documents/portlet_file_entry/1296102/10893967/d55a9545-da30-f768-a7bd-ab61a6637dfd">
+</p>
 
-- 🏢 I'm a Software Engineer at We-Data
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .Net , MSSQL, and Angular, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my Youtube Channel at https://www.youtube.com/@Teach-And-Learn to see some of Videos that I've worked on.
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Microsoft%20Dynamics%20365%20CRM%20Developer;Power%20Platform%20Specialist;Always%20Learning%20and%20Building&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p>
 
-### Connect with Me :
+---
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+## 👋 About Me
 
+I'm a **Microsoft Dynamics 365 CRM & Power Platform Developer** with a strong background in designing, customizing, and scaling enterprise-grade solutions across multiple industries.
 
+I specialize in:
 
+- Building scalable Model-Driven and Canvas Apps  
+- Automating processes using Power Automate and Azure Logic Apps  
+- Writing custom C# Plugins, JavaScript logic, and Web Resources in D365  
+- Integrating with external systems via APIs and Azure Services  
+- Designing intelligent, actionable dashboards using Power BI  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+---
+
+## 🛠️ Tech Stack
+
+- 💼 **Dynamics 365 CRM**: Plugins, Custom Workflows, Business Rules, JavaScript  
+- ⚙️ **Power Platform**: Power Apps, Power Automate, Power BI, Power Pages  
+- ☁️ **Azure**: Functions, App Registration, Logic Apps, Key Vault  
+- 💻 **.NET Core / C#**: Web API, Service Layers, SDK Development  
+- 🗃️ **Dataverse**: Schema Modeling, Security, Data Integrations  
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Launching an AI-driven, multi-tenant platform for assessments and learning  
+- 📺 Creating a YouTube series (in Egyptian Arabic) on Power Platform & Dynamics 365  
+- 🎓 Preparing for **PL-200** and **PL-400** certifications  
+- 🌍 Exploring job opportunities and collaborations in the UAE  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/albadry-esmat-mohamed/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61577954542577" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/groups/1066590518938579" target="_blank">
+    <img alt="Facebook Group" src="https://img.shields.io/badge/Facebook%20Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/groups/10013343/" target="_blank">
+    <img alt="LinkedIn Group" src="https://img.shields.io/badge/LinkedIn%20Group-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://t.me/+vDg7qI_yBAdlZjg8" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/albadryacademy365/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.tiktok.com/@albadryacademy365" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+
+  <a href="https://x.com/albadry_academy" target="_blank">
+    <img alt="Twitter (X)" src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+
+  <a href="https://www.threads.com/@albadryacademy365" target="_blank">
+    <img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+  </a>
+
+  <a href="https://www.youtube.com/@AlbadryAcademy365" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  🚀 "I believe in building smart, scalable solutions, sharing knowledge, and helping others succeed. Let's innovate together!"
+</p>
