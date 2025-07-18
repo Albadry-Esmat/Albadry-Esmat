@@ -83,7 +83,7 @@ I specialize in:
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 
-  <a href="https://x.com/albadry_academy" target="_blank">
+  <a href="https://x.com/albadryacademy" target="_blank">
     <img alt="Twitter (X)" src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 
