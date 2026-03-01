@@ -210,9 +210,9 @@ Focus Areas:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Albadry-Esmat&show_icons=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albadry-esmat&theme=default">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albadry-Esmat">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albadry-esmat&theme=default">
 
 </p>
 
