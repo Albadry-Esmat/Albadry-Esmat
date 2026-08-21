@@ -70,9 +70,25 @@ I am currently building a stronger public body of work around:
 - Azure integration patterns for Power Platform solutions.
 - Practical architecture guidance and learning content.
 
+## Contributions in motion
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Albadry Esmat's GitHub contribution graph" width="900" />
+  </picture>
+</p>
+
 ## Why follow this profile?
 
 You will find practical ideas for building better Microsoft business solutions—not just lists of technologies. My goal is to share reusable patterns, explain the architectural decisions behind them, and help developers and solution teams create systems that are easier to extend, test, secure, and operate.
+
+## Recent GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albadry-Esmat&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20GitHub%20Activity" alt="Recent GitHub activity graph for Albadry Esmat" width="900" />
+</p>
 
 ## Connect with me
 
