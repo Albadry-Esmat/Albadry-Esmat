@@ -74,9 +74,9 @@ I am currently building a stronger public body of work around:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Albadry Esmat's GitHub contribution graph" width="900" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake.svg" alt="Animated snake moving through Albadry Esmat's GitHub contribution graph" width="900" />
   </picture>
 </p>
 
