@@ -1,74 +1,75 @@
 <p align="center">
-  <img src="https://kinesisco.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-1024x479.png" alt="Microsoft Power Platform ecosystem" width="900" />
-</p>
-
-<h1 align="center">Albadry Esmat</h1>
-
-<p align="center">
-  <strong>Dynamics 365 &nbsp;•&nbsp; Power Platform &nbsp;•&nbsp; Dataverse &nbsp;•&nbsp; Azure &nbsp;•&nbsp; Enterprise .NET</strong>
+  <img src="./assets/profile-hero.svg" alt="Albadry Esmat — Dynamics 365, Power Platform, Dataverse, Azure, .NET and AI Engineering" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/albadry-esmat-mohamed/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/@AlbadryAcademy365">Albadry Academy</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Albadry-Esmat?tab=repositories">My repositories</a>
+  <a href="https://www.linkedin.com/in/albadry-esmat-mohamed/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@AlbadryAcademy365">
+    <img alt="Albadry Academy on YouTube" src="https://img.shields.io/badge/Albadry%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/Albadry-Esmat?tab=repositories">
+    <img alt="GitHub repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20reliable%20business%20solutions;Designing%20maintainable%20Dataverse%20architectures;Sharing%20practical%20Power%20Platform%20knowledge&font=Fira%20Code&center=true&width=700&height=45&color=2563EB&vCenter=true&size=20" alt="Building reliable business solutions, designing maintainable Dataverse architectures, and sharing practical Power Platform knowledge" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20enterprise%20Dynamics%20365%20systems;Designing%20AI-assisted%20engineering%20workflows;Creating%20reusable%20frameworks%20and%20developer%20tools;Sharing%20practical%20architecture%20and%20automation%20knowledge&font=Fira%20Code&center=true&width=900&height=45&color=38BDF8&vCenter=true&size=20" alt="Building enterprise systems, AI-assisted workflows, reusable frameworks, and practical engineering knowledge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Albadry-Esmat&color=2563EB&label=Profile%20views" alt="Profile views" />
-</p>
+## Engineering software for business systems, automation, and AI-assisted delivery
 
-## Building business solutions that last
+I build **reliable software around Microsoft Dynamics 365, Power Platform, Dataverse, Azure, .NET, and AI engineering workflows**.
 
-I am a **Dynamics 365 and Power Platform engineer** focused on turning complex business processes into reliable, maintainable, and scalable solutions.
-
-My work brings together **Dataverse, plugins, Power Apps, Power Automate, Azure integrations, and .NET architecture**. I care about clean boundaries, reusable components, secure integrations, practical ALM, and solutions that teams can understand and maintain long after the first release.
+My focus is not just getting features to work. I care about the architecture behind them: clear boundaries, reusable components, secure integrations, observable behavior, practical ALM, deterministic quality gates, and systems that remain understandable after the first release.
 
 > **Architecture first. Practical engineering always.**
 
 ## What I build
 
-| Focus | What it means in practice |
+| Area | Engineering focus |
 | --- | --- |
-| **Dataverse & Dynamics 365** | Plugins, services, business logic, security models, optimized queries, and enterprise CRM solutions |
-| **Power Platform** | Model-driven apps, Canvas Apps, Power Automate, Power Pages, Dataverse design, and maintainable solution architecture |
-| **Azure integrations** | Functions, Logic Apps, APIs, Key Vault, authentication, and integration patterns for connected business systems |
-| **Engineering foundations** | C#, .NET, REST APIs, dependency injection, clean architecture, SOLID principles, logging, and exception handling |
+| **Dynamics 365 & Dataverse** | Plugins, custom APIs, services, security models, business logic, optimized queries, integrations, and reusable CRM foundations |
+| **Power Platform** | Model-driven solutions, Power Automate, Dataverse architecture, business-process automation, and maintainable solution design |
+| **Azure & .NET** | C#, ASP.NET APIs, Azure integrations, authentication, configuration, logging, exception handling, and connected-system patterns |
+| **AI engineering** | Agentic software-engineering workflows, specialized agents, human approval gates, validation pipelines, governance, and developer automation |
 
-## Featured work
+## Featured engineering projects
 
-| Project | Description | Status |
+| Project | Why it matters | Stack / status |
 | --- | --- | --- |
-| **Albadry.D365.Framework** | A reusable foundation for Dataverse plugins, services, dependency injection, logging, configuration, and integration patterns | **Building** |
-| **D365 Plugin Best Practices** | Practical patterns for plugin stages, secure configuration, optimized queries, exception handling, and maintainable implementations | **Publishing** |
-| **Albadry Academy** | Learning content for Dynamics 365, Power Platform, Dataverse, and enterprise solution development | **Active** |
+| **[AI-Workflow](https://github.com/Albadry-Esmat/AI-Workflow)** | An open software-engineering workflow that routes work through requirements, architecture, planning, implementation, review, testing, and deployment. The current system documents **119 skills, 19 agents, and 22 pipeline templates**, with human-in-the-loop gates for critical decisions. | Python · Open-source · MIT |
+| **[Albadry.D365.Framework](https://github.com/Albadry-Esmat/Albadry.D365.Framework)** | A reusable foundation for Dynamics 365 and Dataverse plugin development, organized as a dedicated framework with source and tests rather than isolated plugin snippets. | Dynamics 365 · Dataverse · .NET · MIT |
+| **[CaseManagement.Api](https://github.com/Albadry-Esmat/CaseManagement.Api)** | A public C# API project representing the backend/API side of my engineering work beyond Dataverse customization. | C# · API engineering |
+| **[All public repositories](https://github.com/Albadry-Esmat?tab=repositories)** | Frameworks, APIs, automation experiments, content tooling, and engineering systems as they become public. | Active development |
 
-Explore the latest public work through the [repository list](https://github.com/Albadry-Esmat?tab=repositories) and follow the [Albadry Academy channel](https://www.youtube.com/@AlbadryAcademy365) for practical learning content.
+## Core stack
 
-## Engineering principles
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-I design solutions around a small set of principles that keep enterprise systems understandable and dependable:
+## Engineering approach
 
-- **Separation of concerns** so business rules, infrastructure, and integrations can evolve independently.
-- **Reusable components** so teams solve recurring problems once and apply the solution consistently.
-- **Configuration over duplication** so environments can change without rewriting business logic.
-- **Security and observability by design** so integrations are protected, traceable, and easier to operate.
-- **Performance with purpose** so high-volume Dataverse workloads remain predictable and maintainable.
+**Separation of concerns** keeps business rules, platform concerns, and integrations independently evolvable. **Reusable foundations** reduce repeated CRM and API boilerplate. **Configuration over duplication** keeps behavior portable across environments. **Security and observability by design** make production systems easier to trust and operate. **Deterministic validation and human gates** become especially important when AI participates in software delivery.
 
 ## Current focus
 
-I am currently building a stronger public body of work around:
+I am currently expanding two connected bodies of work: **enterprise Microsoft business applications** and **AI-assisted software engineering**. That includes reusable Dynamics 365/Dataverse foundations, developer tooling, governed agent workflows, Azure/API integration patterns, and practical educational content that explains not only *how* an implementation works, but *why* it is designed that way.
 
-- A reusable Dynamics 365 and Dataverse plugin framework.
-- Enterprise plugin examples and implementation patterns.
-- Azure integration patterns for Power Platform solutions.
-- Practical architecture guidance and learning content.
+## Albadry Academy
+
+I share practical learning content around **Dynamics 365, Power Platform, Dataverse, software engineering, automation, and architecture** through [Albadry Academy](https://www.youtube.com/@AlbadryAcademy365).
+
+The goal is straightforward: turn real engineering experience into examples and patterns that developers can reuse in production systems.
 
 ## Contributions in motion
 
@@ -76,47 +77,27 @@ I am currently building a stronger public body of work around:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake.svg" alt="Animated snake moving through Albadry Esmat's GitHub contribution graph" width="900" />
+    <img src="https://raw.githubusercontent.com/Albadry-Esmat/Albadry-Esmat/output/dist/github-contribution-grid-snake.svg" alt="Contribution history animation for Albadry Esmat" width="900" />
   </picture>
 </p>
 
-## Why follow this profile?
-
-You will find practical ideas for building better Microsoft business solutions—not just lists of technologies. My goal is to share reusable patterns, explain the architectural decisions behind them, and help developers and solution teams create systems that are easier to extend, test, secure, and operate.
-
-## Recent GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albadry-Esmat&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20GitHub%20Activity" alt="Recent GitHub activity graph for Albadry Esmat" width="900" />
-</p>
-
-## Connect with me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/albadry-esmat-mohamed/">
-    <img alt="Connect with Albadry Esmat on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@AlbadryAcademy365">
     <img alt="Watch Albadry Academy on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://t.me/+vDg7qI_yBAdlZjg8">
-    <img alt="Join the Albadry Academy Telegram community" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Join the Telegram community" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/albadryacademy365/">
-    <img alt="Follow Albadry Academy on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-## GitHub activity
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albadry-esmat&theme=default" alt="GitHub profile activity summary" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albadry-esmat&theme=default" alt="GitHub statistics" width="500" />
-</p>
-
-<p align="center">
-  <strong>Building enterprise solutions. Sharing what works. Creating what comes next.</strong>
+  <strong>Building enterprise systems. Automating engineering. Sharing what works.</strong>
 </p>
